@@ -1,6 +1,6 @@
 # Spacecraft game, a University project
 
-Welcom to this repo, **Spacecraft game** is just a simple terminal application which is so cool :).
+Welcom to this repo, **Spacecraft game** is just a simple terminal application which is so cool :)
 
 I developed this game in February 2024 as a project for the Fundamentals of Programming Course at Amirkabir University of Technology (AUT) using C language.
 
