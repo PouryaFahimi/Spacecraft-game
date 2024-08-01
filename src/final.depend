@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1706916427 source:c:\users\pourya\desktop\final\auxiliary.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	"sounds.h"
+
+1706916427 c:\users\pourya\desktop\final\sounds.h
+
+1706916939 source:c:\users\pourya\desktop\final\field.c
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"linklist.h"
+	"auxiliary.h"
+	"menu.h"
+	"sounds.h"
+
+1706873540 c:\users\pourya\desktop\final\linklist.h
+
+1706904166 c:\users\pourya\desktop\final\auxiliary.h
+
+1706889463 c:\users\pourya\desktop\final\menu.h
+
+1706886605 source:c:\users\pourya\desktop\final\linklist.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"linklist.h"
+
+1706619303 source:c:\users\pourya\desktop\final\main.c
+
+1706917193 source:c:\users\pourya\desktop\final\menu.c
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"auxiliary.h"
+	<stdio.h>
+	"sounds.h"
+
+1706916048 source:c:\users\pourya\desktop\final\sounds.c
+	<windows.h>
+	<MMSystem.h>
+
