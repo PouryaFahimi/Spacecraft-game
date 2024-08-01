@@ -24,6 +24,6 @@ Just clone the repository, run the `.exe` file and enjoy.
 Main keys are `A W S D`
 
 - **Menu:** Press D for select and A for back.
-- **Gameplay:** Press Space button for shoot, Esc for exit and P for pause.
+- **Gameplay:** Press `Space` button for shoot, `Esc` for exit and P for pause.
 
-between choices Space button is for selection.
+between choices `Space` button is for selection.
