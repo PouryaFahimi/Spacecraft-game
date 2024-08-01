@@ -16,4 +16,14 @@ Just clone the repository, run the `.exe` file and enjoy.
 - **Cargo spaceship:** Dropping supplies when destroyed, randomly between power bullets or health pack.
 - **Bomber:** Moving horizontally and drops bomb.
 - **Jet:**
-    - warrior
+    - **Warrior:** Moving forward and shoots.
+    - **Drone:** Doesn't shoot but pursuit your spacecraft.
+
+### Controls
+
+Main keys are `A W S D`
+
+- **Menu:** Press D for select and A for back.
+- **Gameplay:** Press Space button for shoot, Esc for exit and P for pause.
+
+between choices Space button is for selection.
