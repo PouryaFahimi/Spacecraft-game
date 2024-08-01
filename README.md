@@ -6,7 +6,7 @@ I developed this game in February 2024 as a project for the Fundamentals of Prog
 
 ### Instalation
 
-Just clone the repository, run the `.exe` file and enjoy.
+Just clone the repository, run the `.exe` file and enjoy. There is a surprise ;)
 
 ## Game detailes
 
